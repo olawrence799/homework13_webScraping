@@ -1,1 +1,1 @@
-# homework13_webScraping
+This application scrapes information about Mars from several sources and curates a landing page with all of the information in one place. Things like the featured image from NASA, current weather, and Mars facts are displayed -- all scraped from the web.
